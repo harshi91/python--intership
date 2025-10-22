@@ -1,9 +1,3 @@
-"""
-Simple CLI Calculator
-
-Supports: addition, subtraction, multiplication, division.
-Run: python Calculator.py
-"""
 import sys
 
 def add(a, b):
@@ -77,3 +71,4 @@ if __name__ == "__main__":
         print("\nInterrupted. Exiting.")
 
         sys.exit(0)
+

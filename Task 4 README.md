@@ -6,7 +6,7 @@ Supports basic CRUD operations using HTTP methods.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Get all users — `GET /users`
 - Get single user — `GET /users/<id>`
@@ -16,7 +16,7 @@ Supports basic CRUD operations using HTTP methods.
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.x
 - Flask
@@ -27,5 +27,5 @@ Install dependencies:
 pip install flask
 
 
-▶️ Run the Application
+ Run the Application
 python app.py
